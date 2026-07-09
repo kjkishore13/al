@@ -1,0 +1,6 @@
+# Disable Jekyll processing
+include:
+  - frontend
+  - backend
+markdown: GFM
+highlighter: rouge
